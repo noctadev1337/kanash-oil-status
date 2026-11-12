@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+.idea/
+.vscode/
+
+# сгенерированное и локальные данные
+map_out.png
+results/
+src/data/*.db
+
+# сборка
+build/*.spec
+dist/
+icon.ico
+icon.icns
+icon.iconset/
+dmg_src/
+*.dmg
